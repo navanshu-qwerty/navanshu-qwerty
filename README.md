@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+home;I+uninstalled+chrome;DSA+|+HTML+|+CSS+|+JAVASCRIPT+|+Linux)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=25&duration=3000&pause=1000&color=22F7A7&width=500&height=100&lines=welcome+to+my+home;i+uninstalled+chrome;now+brave+eats+my+memory)](https://git.io/typing-svg)
